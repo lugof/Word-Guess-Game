@@ -1,0 +1,33 @@
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+}
+
+body{
+    background:black;
+    color:white;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+   
+}
+
+h1{
+    text-align: center;
+    margin-top:3%;
+}
+
+#akuma{
+    margin-left:22%;
+}
+
+#akuma,#dhalsim,#guile,#honda,#ken,#ryu,#sagat,#zangief{
+float:left;
+margin-top:20px;
+
+
+
+}
+
+
